@@ -1,0 +1,12 @@
+# Build outputs
+TouchPulse.app/
+.build/
+*.o
+*.dSYM/
+
+# macOS Finder & editor junk
+.DS_Store
+*.swp
+*~
+.vscode/
+xcuserdata/
